@@ -1,3 +1,3 @@
 # bot-detection
 
-[[System Design]](./diagrams/bot_detection.gif)
+![[System Design]](./diagrams/bot_detection.gif)
