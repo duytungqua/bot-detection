@@ -1,3 +1,3 @@
 # bot-detection
 
-[View Animated Diagram](./diagrams/bot-detection.html)
+[[System Design]](./diagrams/bot_detection.gif)
