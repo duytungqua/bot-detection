@@ -1,0 +1,8 @@
+kafka:
+  brokers:
+    - "localhost:9092"
+  topic: "logs-topic"
+  groupid: "bot-detector-group"
+
+api:
+  endpoint: "http://localhost:8080/bot-report"
