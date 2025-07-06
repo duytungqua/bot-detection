@@ -1,7 +1,6 @@
 package config
 
 import (
-	"github.com/go-playground/locales/vo"
 	"github.com/spf13/viper"
 )
 
@@ -34,7 +33,7 @@ func Load() Config{
 	if err != nil {
 		panic("Failed to unmarshal configuration: " + err.Error())
 	}
-	
+
 	Cfg.API.Endpoint = "https://api.example.com"
 	return Cfg	
 
